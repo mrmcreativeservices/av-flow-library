@@ -1,0 +1,14 @@
+[
+  {
+    "id": "sony-bravia-55",
+    "brand": "Sony",
+    "model": "Bravia FW-55BZ35F",
+    "file": "Sony/Bravia-FW-55BZ35F.json"
+  },
+  {
+    "id": "barco-cx30",
+    "brand": "Barco",
+    "model": "ClickShare CX-30",
+    "file": "Barco/ClickShare-CX30.json"
+  }
+]

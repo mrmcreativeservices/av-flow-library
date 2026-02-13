@@ -1,0 +1,11 @@
+{
+  "brand": "Barco",
+  "model": "ClickShare CX-30",
+  "inputs": [
+    { "id": "i1", "label": "USB-C", "type": "usb" }
+  ],
+  "outputs": [
+    { "id": "o1", "label": "HDMI Out", "type": "hdmi" },
+    { "id": "o2", "label": "USB-A", "type": "usb" }
+  ]
+}

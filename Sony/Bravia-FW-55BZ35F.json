@@ -1,0 +1,13 @@
+{
+  "brand": "Sony",
+  "model": "Bravia FW-55BZ35F",
+  "inputs": [
+    { "id": "i1", "label": "HDMI 1", "type": "hdmi" },
+    { "id": "i2", "label": "HDMI 2", "type": "hdmi" },
+    { "id": "i3", "label": "HDMI 3", "type": "hdmi" },
+    { "id": "i4", "label": "HDMI 4", "type": "hdmi" }
+  ],
+  "outputs": [
+    { "id": "o1", "label": "Audio Out (Mini-Jack)", "type": "audio" }
+  ]
+}
