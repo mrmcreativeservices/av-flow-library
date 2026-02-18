@@ -1,0 +1,47 @@
+{
+  "brand": "Audac",
+  "model": "PRE 116",
+  "inputs": [
+    {
+      "label": "MIC 1",
+      "type": "XLR"
+    },
+    {
+      "label": "MIC 2",
+      "type": "XLR"
+    },
+    {
+      "label": "CH 1",
+      "type": "XLR"
+    },
+    {
+      "label": "CH 2",
+      "type": "RCA"
+    },
+    {
+      "label": "CH 3",
+      "type": "RCA"
+    },
+    {
+      "label": "CH 4",
+      "type": "RCA"
+    },
+    {
+      "label": "CH 4 Mini-jack",
+      "type": "Mini Jack"
+    },
+    {
+      "label": "POWER",
+      "type": "IEC"
+    }
+  ],
+  "outputs": [
+    {
+      "label": "OUT",
+      "type": "Terminal (Audio)"
+    }
+  ],
+  "rackMountable": true,
+  "rackUnits": 1,
+  "rackAccessory": false
+}

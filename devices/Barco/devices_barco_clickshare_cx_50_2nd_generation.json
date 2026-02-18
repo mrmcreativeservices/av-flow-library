@@ -1,0 +1,47 @@
+{
+  "brand": "Barco",
+  "model": "ClickShare CX-50 2nd generation",
+  "inputs": [
+    {
+      "label": "USB-C Front",
+      "type": "USB-C"
+    },
+    {
+      "label": "USB-C Back",
+      "type": "USB-C"
+    },
+    {
+      "label": "USB-A",
+      "type": "USB-A"
+    },
+    {
+      "label": "USB-A",
+      "type": "USB-A"
+    },
+    {
+      "label": "LAN",
+      "type": "RJ45"
+    },
+    {
+      "label": "Power",
+      "type": "Schuko"
+    }
+  ],
+  "outputs": [
+    {
+      "label": "HDMI Out",
+      "type": "HDMI"
+    },
+    {
+      "label": "USB-C Back",
+      "type": "USB-C"
+    },
+    {
+      "label": "Audio Out",
+      "type": "Mini Jack"
+    }
+  ],
+  "rackMountable": true,
+  "rackUnits": 1,
+  "rackAccessory": true
+}

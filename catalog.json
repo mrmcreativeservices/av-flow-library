@@ -1,14 +1,27 @@
 [
   {
-    "id": "sony-bravia-55",
-    "brand": "Sony",
-    "model": "Bravia FW-55BZ35F",
-    "file": "Sony/Bravia-FW-55BZ35F.json"
+    "brand": "Audac",
+    "model": "PRE 116",
+    "file": "devices/Audac/devices_audac_pre_116.json"
   },
   {
-    "id": "barco-cx30",
+    "brand": "Audac",
+    "model": "PRE 126",
+    "file": "devices/Audac/devices_audac_pre_126.json"
+  },
+  {
+    "brand": "Barco",
+    "model": "ClickShare CX-20",
+    "file": "devices/Barco/devices_barco_clickshare_cx_20.json"
+  },
+  {
     "brand": "Barco",
     "model": "ClickShare CX-30",
-    "file": "Barco/ClickShare-CX30.json"
+    "file": "devices/Barco/devices_barco_clickshare_cx_30.json"
+  },
+  {
+    "brand": "Barco",
+    "model": "ClickShare CX-50 2nd generation",
+    "file": "devices/Barco/devices_barco_clickshare_cx_50_2nd_generation.json"
   }
 ]

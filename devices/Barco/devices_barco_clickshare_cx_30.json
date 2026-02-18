@@ -1,0 +1,31 @@
+{
+  "brand": "Barco",
+  "model": "ClickShare CX-30",
+  "inputs": [
+    {
+      "label": "USB-A",
+      "type": "USB-A"
+    },
+    {
+      "label": "USB-C",
+      "type": "USB-C"
+    },
+    {
+      "label": "LAN",
+      "type": "RJ45"
+    },
+    {
+      "label": "Power In",
+      "type": "Schuko"
+    }
+  ],
+  "outputs": [
+    {
+      "label": "HDMI Out",
+      "type": "HDMI"
+    }
+  ],
+  "rackMountable": true,
+  "rackUnits": 1,
+  "rackAccessory": true
+}
