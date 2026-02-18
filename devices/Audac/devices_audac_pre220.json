@@ -1,0 +1,59 @@
+{
+  "brand": "Audac",
+  "model": "PRE220",
+  "inputs": [
+    {
+      "label": "MIC 1",
+      "type": "XLR"
+    },
+    {
+      "label": "MIC 2",
+      "type": "XLR"
+    },
+    {
+      "label": "MIC 3",
+      "type": "XLR"
+    },
+    {
+      "label": "MIC 4",
+      "type": "XLR"
+    },
+    {
+      "label": "MIC 5",
+      "type": "XLR"
+    },
+    {
+      "label": "MIC 6",
+      "type": "XLR"
+    },
+    {
+      "label": "MIC 7",
+      "type": "XLR"
+    },
+    {
+      "label": "MIC 8",
+      "type": "XLR"
+    },
+    {
+      "label": "CH 1",
+      "type": "RCA"
+    },
+    {
+      "label": "CH 2",
+      "type": "RCA"
+    }
+  ],
+  "outputs": [
+    {
+      "label": "OUT 1",
+      "type": "Terminal (Audio)"
+    },
+    {
+      "label": "OUT 2",
+      "type": "Terminal (Audio)"
+    }
+  ],
+  "rackMountable": true,
+  "rackUnits": 1,
+  "rackAccessory": false
+}
