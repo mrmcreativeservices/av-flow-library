@@ -1,13 +1,18 @@
 [
   {
     "brand": "Audac",
-    "model": "PRE 116",
-    "file": "devices/Audac/devices_audac_pre_116.json"
+    "model": "PRE116",
+    "file": "devices/Audac/devices_audac_pre116.json"
   },
   {
     "brand": "Audac",
-    "model": "PRE 126",
-    "file": "devices/Audac/devices_audac_pre_126.json"
+    "model": "PRE126",
+    "file": "devices/Audac/devices_audac_pre126.json"
+  },
+  {
+    "brand": "Audac",
+    "model": "PRE220",
+    "file": "devices/Audac/devices_audac_pre220.json"
   },
   {
     "brand": "Barco",
@@ -23,5 +28,35 @@
     "brand": "Barco",
     "model": "ClickShare CX-50 2nd generation",
     "file": "devices/Barco/devices_barco_clickshare_cx_50_2nd_generation.json"
+  },
+  {
+    "brand": "Viewsonic",
+    "model": "CDE4314-2C",
+    "file": "devices/Viewsonic/devices_viewsonic_cde4314_2c.json"
+  },
+  {
+    "brand": "Viewsonic",
+    "model": "CDE5014-2C",
+    "file": "devices/Viewsonic/devices_viewsonic_cde5014_2c.json"
+  },
+  {
+    "brand": "Viewsonic",
+    "model": "CDE5514-2C",
+    "file": "devices/Viewsonic/devices_viewsonic_cde5514_2c.json"
+  },
+  {
+    "brand": "Viewsonic",
+    "model": "CDE6514-2C",
+    "file": "devices/Viewsonic/devices_viewsonic_cde6514_2c.json"
+  },
+  {
+    "brand": "Viewsonic",
+    "model": "CDE7514-2C",
+    "file": "devices/Viewsonic/devices_viewsonic_cde7514_2c.json"
+  },
+  {
+    "brand": "Viewsonic",
+    "model": "CDE8614-2C",
+    "file": "devices/Viewsonic/devices_viewsonic_cde8614_2c.json"
   }
 ]
