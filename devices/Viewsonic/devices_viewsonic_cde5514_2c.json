@@ -1,0 +1,47 @@
+{
+  "brand": "Viewsonic",
+  "model": "CDE5514-2C",
+  "inputs": [
+    {
+      "label": "HDMI 1",
+      "type": "HDMI"
+    },
+    {
+      "label": "HDMI 2",
+      "type": "HDMI"
+    },
+    {
+      "label": "HDMI 3 (ARC)",
+      "type": "HDMI"
+    },
+    {
+      "label": "USB-C",
+      "type": "USB-C"
+    },
+    {
+      "label": "RS232",
+      "type": "RS-232"
+    }
+  ],
+  "outputs": [
+    {
+      "label": "Audio Out",
+      "type": "Mini Jack"
+    },
+    {
+      "label": "SPDIF",
+      "type": "Digitaal Optisch"
+    },
+    {
+      "label": "HDMI 3 (ARC)",
+      "type": "HDMI"
+    },
+    {
+      "label": "LAN",
+      "type": "RJ45"
+    }
+  ],
+  "rackMountable": false,
+  "rackUnits": null,
+  "rackAccessory": false
+}
