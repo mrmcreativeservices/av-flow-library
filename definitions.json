@@ -1,0 +1,95 @@
+{
+  "portMapping": {
+    "Audio": [
+      "XLR",
+      "XLR Male 3P",
+      "XLR Female 3P",
+      "XLR 5P Male",
+      "XLR 5P Female",
+      "TRS Jack",
+      "Jack TRS",
+      "TS Jack",
+      "Jack TS",
+      "Mini Jack",
+      "RCA",
+      "Terminal (Audio)",
+      "Digitaal Optisch",
+      "Digitaal Coaxiaal",
+      "HDMI ARC",
+      "Speakon",
+      "Speakon 2P",
+      "Speakon 4P",
+      "Terminal (Speaker)",
+      "BNC",
+      "audio"
+    ],
+    "Video": [
+      "HDMI",
+      "DisplayPort",
+      "SDI",
+      "DVI",
+      "VGA",
+      "HDBaseT",
+      "video"
+    ],
+    "Data": [
+      "RJ45",
+      "Ethercon",
+      "USB-A",
+      "USB-A/B",
+      "USB-C",
+      "RS-232",
+      "Fiber",
+      "DMX",
+      "DMX 3P",
+      "DMX 5P",
+      "GPI",
+      "GPO",
+      "data"
+    ],
+    "Power": [
+      "Schuko",
+      "IEC",
+      "PowerCON",
+      "PowerCON Blue",
+      "PowerCON Grey",
+      "PowerCON TRUE1",
+      "PowerCON True 1 Male",
+      "PowerCON True 1 Female",
+      "PowerCON True 2 Male",
+      "power"
+    ]
+  },
+  "patchPortMapping": {
+    "Audio": [
+      "XLR Male 3P",
+      "XLR Female 3P",
+      "XLR 5P Male",
+      "XLR 5P Female",
+      "Jack TRS",
+      "Jack TS",
+      "RCA",
+      "Speakon 2P",
+      "Speakon 4P",
+      "BNC"
+    ],
+    "Video": [
+      "HDMI",
+      "SDI",
+      "VGA"
+    ],
+    "Data": [
+      "RJ45",
+      "Ethercon",
+      "USB-A/B",
+      "USB-C",
+      "Fiber"
+    ],
+    "Power": [
+      "PowerCON Blue",
+      "PowerCON Grey",
+      "PowerCON True 1 Male",
+      "PowerCON True 1 Female"
+    ]
+  }
+}
