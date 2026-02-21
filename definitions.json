@@ -20,8 +20,7 @@
       "Speakon 2P",
       "Speakon 4P",
       "Terminal (Speaker)",
-      "BNC",
-      "audio"
+      "BNC"
     ],
     "Video": [
       "HDMI",
@@ -29,8 +28,7 @@
       "SDI",
       "DVI",
       "VGA",
-      "HDBaseT",
-      "video"
+      "HDBaseT"
     ],
     "Data": [
       "RJ45",
@@ -44,8 +42,7 @@
       "DMX 3P",
       "DMX 5P",
       "GPI",
-      "GPO",
-      "data"
+      "GPO"
     ],
     "Power": [
       "Schuko",
@@ -56,8 +53,7 @@
       "PowerCON TRUE1",
       "PowerCON True 1 Male",
       "PowerCON True 1 Female",
-      "PowerCON True 2 Male",
-      "power"
+      "PowerCON True 2 Male"
     ]
   },
   "patchPortMapping": {
