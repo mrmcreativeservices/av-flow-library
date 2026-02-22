@@ -1,4 +1,17 @@
 {
+  "signalColors": {
+    "ANALOG_AUDIO": "#ef4444",
+    "SPEAKER": "#ec4899",
+    "DMX": "#8b5cf6",
+    "NETWORK": "#10b981",
+    "SDI_BNC": "#06b6d4",
+    "DIGITAL_VIDEO": "#6366f1",
+    "POWER": "#f97316",
+    "FIBER": "#eab308",
+    "GPIO": "#a3e635",
+    "UNIVERSAL": "#9ca3af",
+    "DEFAULT": "#64748b"
+  },
   "portMapping": {
     "Audio": [
       "XLR",
